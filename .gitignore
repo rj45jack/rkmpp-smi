@@ -1,0 +1,10 @@
+# Editor / OS cruft
+*.swp
+*~
+.DS_Store
+
+# Local environment and credentials
+.env
+.env.*
+*.key
+*.pem
